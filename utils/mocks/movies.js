@@ -171,4 +171,6 @@ class MoviesServiceMock {
 
 module.exports = {
     moviesMock,
+    filteredMoviesMock,
+	MoviesServiceMock
 };
